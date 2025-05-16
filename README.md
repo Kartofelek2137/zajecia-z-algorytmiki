@@ -1,0 +1,2 @@
+# zajecia-z-algorytmiki
+stachu
